@@ -5,7 +5,10 @@
 | ✨ Nome        | Palavra surpresa - Jogo de advinhação
 | 🏷️ Tecnologias | Python
 
+## 🔨 Tecnologias
 
+- ``Python 3.30``
+- 
 ## 🔨 Funções do Projeto:
 
 - ``Mostrar tentativas de erros para achar uma palavra ``
