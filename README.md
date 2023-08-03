@@ -8,7 +8,7 @@
 ## 🔨 Tecnologias
 
 - ``Python 3.30``
-- 
+ 
 ## 🔨 Funções do Projeto:
 
 - ``Mostrar tentativas de erros para achar uma palavra ``
