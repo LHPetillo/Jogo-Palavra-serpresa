@@ -1,5 +1,3 @@
-# HZN
-
 | 🪧 Vitrine.Dev |    LHPetillo |
 | -------------  | --- |
 | ✨ Nome        | Palavra surpresa - Jogo de advinhação
